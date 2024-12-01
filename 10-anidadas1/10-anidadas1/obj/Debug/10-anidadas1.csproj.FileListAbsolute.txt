@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\bin\Debug\10-anidadas1.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\bin\Debug\10-anidadas1.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\bin\Debug\10-anidadas1.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\obj\Debug\10-anidadas1.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\obj\Debug\10-anidadas1.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\obj\Debug\10-anidadas1.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\10-anidadas1\10-anidadas1\obj\Debug\10-anidadas1.pdb

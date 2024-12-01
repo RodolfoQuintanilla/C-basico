@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\bin\Debug\08-notasif.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\bin\Debug\08-notasif.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\bin\Debug\08-notasif.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\obj\Debug\08-notasif.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\obj\Debug\08-notasif.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\obj\Debug\08-notasif.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\08-notasif\08-notasif\obj\Debug\08-notasif.pdb

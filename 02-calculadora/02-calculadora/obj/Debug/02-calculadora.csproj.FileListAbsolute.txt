@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\bin\Debug\02-calculadora.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\bin\Debug\02-calculadora.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\bin\Debug\02-calculadora.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\obj\Debug\02-calculadora.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\obj\Debug\02-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\obj\Debug\02-calculadora.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\02-calculadora\02-calculadora\obj\Debug\02-calculadora.pdb

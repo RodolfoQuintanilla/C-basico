@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\10-anidadas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1ABA1-812D-4A13-8482-24A708F5D811}|10-anidadas1\\10-anidadas1.csproj|c:\\users\\rqm\\onedrive\\documentos\\programaciones\\c-basico\\10-anidadas1\\10-anidadas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1ABA1-812D-4A13-8482-24A708F5D811}|10-anidadas1\\10-anidadas1.csproj|solutionrelative:10-anidadas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\10-anidadas1\\10-anidadas1\\Program.cs",
+              "RelativeDocumentMoniker": "10-anidadas1\\Program.cs",
+              "ToolTip": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\10-anidadas1\\10-anidadas1\\Program.cs",
+              "RelativeToolTip": "10-anidadas1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:20:24.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

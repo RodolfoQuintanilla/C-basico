@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\bin\Debug\04-sumayresto.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\bin\Debug\04-sumayresto.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\bin\Debug\04-sumayresto.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\obj\Debug\04-sumayresto.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\obj\Debug\04-sumayresto.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\obj\Debug\04-sumayresto.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\04-sumayresto\04-sumayresto\obj\Debug\04-sumayresto.pdb

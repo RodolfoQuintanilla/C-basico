@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\09-digitos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FCC1CC-4F5E-4381-A97C-9215D8BF3BF8}|09-digitos\\09-digitos.csproj|c:\\users\\rqm\\onedrive\\documentos\\programaciones\\c-basico\\09-digitos\\09-digitos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FCC1CC-4F5E-4381-A97C-9215D8BF3BF8}|09-digitos\\09-digitos.csproj|solutionrelative:09-digitos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\09-digitos\\09-digitos\\Program.cs",
+              "RelativeDocumentMoniker": "09-digitos\\Program.cs",
+              "ToolTip": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\09-digitos\\09-digitos\\Program.cs",
+              "RelativeToolTip": "09-digitos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:03:16.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

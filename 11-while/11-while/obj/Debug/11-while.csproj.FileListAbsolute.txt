@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\bin\Debug\11-while.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\bin\Debug\11-while.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\bin\Debug\11-while.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\obj\Debug\11-while.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\obj\Debug\11-while.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\obj\Debug\11-while.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\11-while\11-while\obj\Debug\11-while.pdb

@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\bin\Debug\09-digitos.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\bin\Debug\09-digitos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\bin\Debug\09-digitos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\obj\Debug\09-digitos.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\obj\Debug\09-digitos.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\obj\Debug\09-digitos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\09-digitos\09-digitos\obj\Debug\09-digitos.pdb

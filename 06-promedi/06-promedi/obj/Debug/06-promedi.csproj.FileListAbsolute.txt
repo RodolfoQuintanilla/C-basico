@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\bin\Debug\06-promedi.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\bin\Debug\06-promedi.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\bin\Debug\06-promedi.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\obj\Debug\06-promedi.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\obj\Debug\06-promedi.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\obj\Debug\06-promedi.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\06-promedi\06-promedi\obj\Debug\06-promedi.pdb

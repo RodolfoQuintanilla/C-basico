@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\bin\Debug\12-notaswhile.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\bin\Debug\12-notaswhile.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\bin\Debug\12-notaswhile.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\obj\Debug\12-notaswhile.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\obj\Debug\12-notaswhile.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\obj\Debug\12-notaswhile.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\12-notaswhile\12-notaswhile\obj\Debug\12-notaswhile.pdb

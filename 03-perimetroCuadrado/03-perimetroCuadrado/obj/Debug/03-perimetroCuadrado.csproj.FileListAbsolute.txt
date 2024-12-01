@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\bin\Debug\03-perimetroCuadrado.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\bin\Debug\03-perimetroCuadrado.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\bin\Debug\03-perimetroCuadrado.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\obj\Debug\03-perimetroCuadrado.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\obj\Debug\03-perimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\obj\Debug\03-perimetroCuadrado.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\03-perimetroCuadrado\03-perimetroCuadrado\obj\Debug\03-perimetroCuadrado.pdb

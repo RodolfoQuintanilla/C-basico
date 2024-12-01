@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\bin\Debug\07-Sumaresta.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\bin\Debug\07-Sumaresta.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\bin\Debug\07-Sumaresta.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\obj\Debug\07-Sumaresta.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\obj\Debug\07-Sumaresta.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\obj\Debug\07-Sumaresta.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\07-Sumaresta\07-Sumaresta\obj\Debug\07-Sumaresta.pdb

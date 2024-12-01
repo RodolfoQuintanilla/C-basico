@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\obj\Debug\05-caja.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\obj\Debug\05-caja.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\bin\Debug\05-caja.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\bin\Debug\05-caja.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\bin\Debug\05-caja.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\obj\Debug\05-caja.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\05-caja\05-caja\obj\Debug\05-caja.pdb
