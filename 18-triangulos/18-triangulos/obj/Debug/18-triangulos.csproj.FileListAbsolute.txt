@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\bin\Debug\18-triangulos.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\bin\Debug\18-triangulos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\bin\Debug\18-triangulos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\obj\Debug\18-triangulos.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\obj\Debug\18-triangulos.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\obj\Debug\18-triangulos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\18-triangulos\18-triangulos\obj\Debug\18-triangulos.pdb

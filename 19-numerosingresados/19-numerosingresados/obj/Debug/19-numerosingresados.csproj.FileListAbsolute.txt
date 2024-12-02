@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\bin\Debug\19-numerosingresados.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\bin\Debug\19-numerosingresados.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\bin\Debug\19-numerosingresados.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\obj\Debug\19-numerosingresados.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\obj\Debug\19-numerosingresados.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\obj\Debug\19-numerosingresados.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\19-numerosingresados\19-numerosingresados\obj\Debug\19-numerosingresados.pdb

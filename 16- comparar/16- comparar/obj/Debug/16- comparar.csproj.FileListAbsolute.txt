@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\bin\Debug\16- comparar.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\bin\Debug\16- comparar.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\bin\Debug\16- comparar.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\obj\Debug\16- comparar.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\obj\Debug\16- comparar.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\obj\Debug\16- comparar.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\16- comparar\16- comparar\obj\Debug\16- comparar.pdb

@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\bin\Debug\15-25terminos.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\bin\Debug\15-25terminos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\bin\Debug\15-25terminos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\obj\Debug\15-25terminos.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\obj\Debug\15-25terminos.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\obj\Debug\15-25terminos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\15-25terminos\15-25terminos\obj\Debug\15-25terminos.pdb

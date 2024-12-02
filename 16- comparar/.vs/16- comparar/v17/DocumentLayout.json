@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\16- comparar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADE338-D387-4FBC-8928-44A27126D580}|16- comparar\\16- comparar.csproj|c:\\users\\rqm\\onedrive\\documentos\\programaciones\\c-basico\\16- comparar\\16- comparar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADE338-D387-4FBC-8928-44A27126D580}|16- comparar\\16- comparar.csproj|solutionrelative:16- comparar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\16- comparar\\16- comparar\\Program.cs",
+              "RelativeDocumentMoniker": "16- comparar\\Program.cs",
+              "ToolTip": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\16- comparar\\16- comparar\\Program.cs",
+              "RelativeToolTip": "16- comparar\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:40:39.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

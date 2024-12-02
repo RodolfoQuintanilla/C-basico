@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\bin\Debug\13-promediStatura.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\bin\Debug\13-promediStatura.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\bin\Debug\13-promediStatura.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\obj\Debug\13-promediStatura.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\obj\Debug\13-promediStatura.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\obj\Debug\13-promediStatura.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\13-promediStatura\13-promediStatura\obj\Debug\13-promediStatura.pdb

@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\bin\Debug\17-Paresnones.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\bin\Debug\17-Paresnones.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\bin\Debug\17-Paresnones.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\obj\Debug\17-Paresnones.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\obj\Debug\17-Paresnones.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\obj\Debug\17-Paresnones.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\17-Paresnones\17-Paresnones\obj\Debug\17-Paresnones.pdb

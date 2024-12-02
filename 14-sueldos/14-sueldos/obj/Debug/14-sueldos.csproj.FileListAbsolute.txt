@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\bin\Debug\14-sueldos.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\bin\Debug\14-sueldos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\bin\Debug\14-sueldos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\obj\Debug\14-sueldos.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\obj\Debug\14-sueldos.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\obj\Debug\14-sueldos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\14-sueldos\14-sueldos\obj\Debug\14-sueldos.pdb
