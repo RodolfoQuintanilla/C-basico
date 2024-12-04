@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\bin\Debug\21-poo.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\bin\Debug\21-poo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\bin\Debug\21-poo.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\obj\Debug\21-poo.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\obj\Debug\21-poo.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\obj\Debug\21-poo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\21-poo\21-poo\obj\Debug\21-poo.pdb

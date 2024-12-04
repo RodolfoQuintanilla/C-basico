@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\bin\Debug\30-Operario.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\bin\Debug\30-Operario.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\bin\Debug\30-Operario.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\obj\Debug\30-Operario.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\obj\Debug\30-Operario.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\obj\Debug\30-Operario.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\30-Operario\30-Operario\obj\Debug\30-Operario.pdb

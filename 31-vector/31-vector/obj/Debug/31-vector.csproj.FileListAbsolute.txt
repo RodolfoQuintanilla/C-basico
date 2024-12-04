@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\bin\Debug\31-vector.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\bin\Debug\31-vector.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\bin\Debug\31-vector.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\obj\Debug\31-vector.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\obj\Debug\31-vector.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\obj\Debug\31-vector.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\31-vector\31-vector\obj\Debug\31-vector.pdb

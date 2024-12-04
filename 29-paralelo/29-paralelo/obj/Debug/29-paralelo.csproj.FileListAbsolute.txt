@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\bin\Debug\29-paralelo.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\bin\Debug\29-paralelo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\bin\Debug\29-paralelo.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\obj\Debug\29-paralelo.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\obj\Debug\29-paralelo.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\obj\Debug\29-paralelo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-paralelo\29-paralelo\obj\Debug\29-paralelo.pdb

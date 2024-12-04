@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\bin\Debug\29-length.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\bin\Debug\29-length.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\bin\Debug\29-length.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\obj\Debug\29-length.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\obj\Debug\29-length.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\obj\Debug\29-length.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\29-length\29-length\obj\Debug\29-length.pdb

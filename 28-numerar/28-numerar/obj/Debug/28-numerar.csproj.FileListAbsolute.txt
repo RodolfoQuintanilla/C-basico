@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\bin\Debug\28-numerar.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\bin\Debug\28-numerar.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\bin\Debug\28-numerar.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\obj\Debug\28-numerar.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\obj\Debug\28-numerar.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\obj\Debug\28-numerar.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\28-numerar\28-numerar\obj\Debug\28-numerar.pdb

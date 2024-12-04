@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\bin\Debug\24-cargarNumeros.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\bin\Debug\24-cargarNumeros.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\bin\Debug\24-cargarNumeros.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\obj\Debug\24-cargarNumeros.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\obj\Debug\24-cargarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\obj\Debug\24-cargarNumeros.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-cargarNumeros\24-cargarNumeros\obj\Debug\24-cargarNumeros.pdb

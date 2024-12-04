@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\bin\Debug\22-EmpleadoPoo.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\bin\Debug\22-EmpleadoPoo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\bin\Debug\22-EmpleadoPoo.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\obj\Debug\22-EmpleadoPoo.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\obj\Debug\22-EmpleadoPoo.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\obj\Debug\22-EmpleadoPoo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\22-EmpleadoPoo\22-EmpleadoPoo\obj\Debug\22-EmpleadoPoo.pdb

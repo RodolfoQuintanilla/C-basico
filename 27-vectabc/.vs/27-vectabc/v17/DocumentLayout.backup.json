@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\27-vectabc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AC98DE-72D2-473C-8AB0-126B3C9AA3F6}|27-vectabc\\27-vectabc.csproj|c:\\users\\rqm\\onedrive\\documentos\\programaciones\\c-basico\\27-vectabc\\27-vectabc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AC98DE-72D2-473C-8AB0-126B3C9AA3F6}|27-vectabc\\27-vectabc.csproj|solutionrelative:27-vectabc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\27-vectabc\\27-vectabc\\Program.cs",
+              "RelativeDocumentMoniker": "27-vectabc\\Program.cs",
+              "ToolTip": "C:\\Users\\rqm\\OneDrive\\Documentos\\programaciones\\C-basico\\27-vectabc\\27-vectabc\\Program.cs",
+              "RelativeToolTip": "27-vectabc\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:57:33.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

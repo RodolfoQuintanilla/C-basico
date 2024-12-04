@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\bin\Debug\27-vectabc.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\bin\Debug\27-vectabc.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\bin\Debug\27-vectabc.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\obj\Debug\27-vectabc.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\obj\Debug\27-vectabc.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\obj\Debug\27-vectabc.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\27-vectabc\27-vectabc\obj\Debug\27-vectabc.pdb

@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\bin\Debug\32-Paices.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\bin\Debug\32-Paices.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\bin\Debug\32-Paices.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\obj\Debug\32-Paices.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\obj\Debug\32-Paices.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\obj\Debug\32-Paices.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\32-Paices\32-Paices\obj\Debug\32-Paices.pdb

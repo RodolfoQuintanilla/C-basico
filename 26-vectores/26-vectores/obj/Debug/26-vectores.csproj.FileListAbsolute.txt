@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\bin\Debug\26-vectores.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\bin\Debug\26-vectores.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\bin\Debug\26-vectores.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\obj\Debug\26-vectores.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\obj\Debug\26-vectores.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\obj\Debug\26-vectores.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\26-vectores\26-vectores\obj\Debug\26-vectores.pdb

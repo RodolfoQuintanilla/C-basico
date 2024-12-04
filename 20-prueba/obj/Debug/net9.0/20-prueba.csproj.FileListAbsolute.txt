@@ -1,0 +1,15 @@
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\bin\Debug\net9.0\20-prueba.exe
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\bin\Debug\net9.0\20-prueba.deps.json
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\bin\Debug\net9.0\20-prueba.runtimeconfig.json
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\bin\Debug\net9.0\20-prueba.dll
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\bin\Debug\net9.0\20-prueba.pdb
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.AssemblyInfoInputs.cache
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.AssemblyInfo.cs
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.csproj.CoreCompileInputs.cache
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.sourcelink.json
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.dll
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\refint\20-prueba.dll
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.pdb
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\20-prueba.genruntimeconfig.cache
+c:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\20-prueba\obj\Debug\net9.0\ref\20-prueba.dll

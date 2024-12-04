@@ -1,0 +1,7 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\bin\Debug\24-array.exe.config
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\bin\Debug\24-array.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\bin\Debug\24-array.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\obj\Debug\24-array.csproj.AssemblyReference.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\obj\Debug\24-array.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\obj\Debug\24-array.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\C-basico\24-array\24-array\obj\Debug\24-array.pdb
